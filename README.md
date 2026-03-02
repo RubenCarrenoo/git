@@ -9,8 +9,7 @@ Aplicar el flujo de trabajo Git Flow utilizando Conventional Commits en un proye
 
 Se creó una nueva carpeta en Documents:
 
-mkdir juan_perez_gitFlow
-
+mkdir git
 Se inicializó el repositorio:
 
 git init
@@ -92,10 +91,3 @@ Se creó el tag 1.0.1
 - fix
 - docs
 - chore
-
----
-
-## Conclusión
-
-Se aplicó correctamente el flujo Git Flow:
-Feature → Develop → Release → Main → Hotfix
